@@ -1,3 +1,3 @@
 # Booking-Movies-vanillaJS
 
-<img width="452" height="536" alt="image" src="https://github.com/user-attachments/assets/5382b135-82d5-408a-84e0-3805ca3534ab" />
+<img width="825" height="590" alt="image" src="https://github.com/user-attachments/assets/1eeff1d1-2a80-41ca-880f-89dee82b9fba" />
